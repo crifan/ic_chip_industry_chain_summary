@@ -1,0 +1,19 @@
+{
+  "title": "芯片产业链总结",
+  "description": "总结芯片产业链的概况，常见芯片相关公司的关系，各种芯片相关名词和概念的含义，以及常见的不同名词之间的对比。",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "ic_chip_industry_chain_summary"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/gitbook/ic_chip_industry_chain_summary/website/"
+    },
+    "toolbar-button": {
+      "url": "http://book.crifan.com/books/ic_chip_industry_chain_summary/pdf/ic_chip_industry_chain_summary.pdf"
+    }
+  }
+}
