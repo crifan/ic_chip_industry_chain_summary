@@ -17,3 +17,5 @@
 * [芯片相关名词对比 在线查看](https://www.processon.com/view/link/5c91f1b6e4b09a16b9a9acfe)
 * [Managing a Fabless Semiconductor Supply Chain - Best Practices - YouTube](https://www.youtube.com/watch?v=7TQ60FvL9-k)
 * [Module 1 - Trust Issues in Integrated Circuit Supply Chain - YouTube](https://www.youtube.com/watch?v=AnODJQoQOd4)
+* [AI芯片最强科普 | 机器之心](https://www.jiqizhixin.com/articles/2018-12-24-5)
+* [产业图解：芯片（设计篇）](https://m.zhangle.com/views/information/newspaper.htm?repetId=100100849126&titleTag=1&from=singlemessage)
